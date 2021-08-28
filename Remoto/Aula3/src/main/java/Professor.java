@@ -6,6 +6,11 @@ public class Professor {
     Professor() {
         System.out.println("Novo professor!");
     }
+    Professor(String nome, double salario, int matricula) {
+        this.nome = nome;
+        this.salario = salario;
+        this.matricula = matricula;
+    }
 
     void darAula() {
         System.out.println(nome + " esta dando aula");

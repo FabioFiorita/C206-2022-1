@@ -12,5 +12,6 @@ public class Principal {
 
         System.out.println(d1.professor.nome);
 
+        Professor p2 = new Professor("Joao",544.39,344);
     }
 }
