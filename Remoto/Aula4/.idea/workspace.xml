@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42cd8a5f-6993-42cf-b5f6-1b134b0b6a4f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aula3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula3/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aula3/src/main/java/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula3/src/main/java/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aula3/src/main/java/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula3/src/main/java/Professor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,5 +69,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
