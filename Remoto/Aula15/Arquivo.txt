@@ -1,0 +1,12 @@
+Aluno
+Fabio
+1234
+GEC
+Aluno
+Caio
+5555
+GEP
+Aluno
+Jorge
+1232134
+GEB
