@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39d6b570-fc20-4430-b7ec-8c3c59f27e92" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Aula1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula3/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula3/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula3/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula3/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula3/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula3/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula3/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula3/src/main/java/Departamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula3/src/main/java/Departamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula3/src/main/java/Escola.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula3/src/main/java/Escola.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula3/src/main/java/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula3/src/main/java/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula3/src/main/java/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula3/src/main/java/Professor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4-Ex1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula4-Ex1/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4-Ex1/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula4-Ex1/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4-Ex1/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula4-Ex1/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4-Ex1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula4-Ex1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4-Ex1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula4-Ex1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4-Ex1/src/main/java/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula4-Ex1/src/main/java/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4-Ex1/src/main/java/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula4-Ex1/src/main/java/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4-Ex1/src/main/java/Disciplina.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula4-Ex1/src/main/java/Disciplina.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4-Ex1/src/main/java/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula4-Ex1/src/main/java/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula4/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula4/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula4/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula4/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4/src/main/java/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula4/src/main/java/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4/src/main/java/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula4/src/main/java/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../LICENSE" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../usr/share/maven" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="26XHTmV9c2eT4tnlsAp31HLompU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Principal" />
+      <module name="Aula6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Principal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39d6b570-fc20-4430-b7ec-8c3c59f27e92" name="Changes" comment="" />
+      <created>1647563029286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647563029286</updated>
+      <workItem from="1647563037707" duration="179000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
