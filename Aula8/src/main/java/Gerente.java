@@ -1,4 +1,4 @@
-public class Gerente extends Funcionario {
+public class Gerente extends Funcionario implements ContrataFuncionario, Sofre {
     private String senhaAcesso;
     private double bonus;
 
@@ -19,5 +19,20 @@ public class Gerente extends Funcionario {
     public void apresentar() {
         //super.apresentar();
         System.out.println("Sou um gerente com senha de acesso " + senhaAcesso);
+    }
+
+    @Override
+    public void criaProcessoSeletivo() {
+        System.out.println("Criando processo seletivo");
+    }
+
+    @Override
+    public void agendaEntrevista() {
+        System.out.println("Agendando uma entervista");
+    }
+
+    @Override
+    public void sofrer() {
+        System.out.println("Sofrendo...");
     }
 }

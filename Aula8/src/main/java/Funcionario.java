@@ -1,4 +1,4 @@
-public class Funcionario {
+public abstract class Funcionario {
     protected String nome;
     protected int horasTrabalhadas;
     protected double salarioHora;
@@ -16,9 +16,5 @@ public class Funcionario {
         return salarioHora * horasTrabalhadas;
     }
 
-    public void apresentar() {
-        System.out.println("Meu nome é "+ nome);
-        System.out.println("Minha matricula é " + matricula);
-    }
-
+    public abstract void apresentar();
 }

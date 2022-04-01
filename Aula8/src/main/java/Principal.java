@@ -7,6 +7,17 @@ public class Principal {
         funcionarios[0] = g1;
         funcionarios[1] = e1;
 
+        for (int i = 0; i < funcionarios.length; i++) {
+            if (funcionarios[i] instanceof Gerente) {
+                Gerente gerente = (Gerente) funcionarios[i];
+                gerente.apresentar();
+                //System.out.println("Salario: " + gerente.calculaSalarioMes());
+            }
+            if (funcionarios[i] instanceof Estagiario) {
+                Estagiario estagiario = (Estagiario) funcionarios[i];
+                //estagiario.fazCafe();
+            }
+        }
         for(Funcionario funcionario: funcionarios) {
             if (funcionario instanceof Gerente) {
                 Gerente gerente = (Gerente) funcionario;

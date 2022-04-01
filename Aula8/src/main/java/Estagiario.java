@@ -3,6 +3,11 @@ public class Estagiario extends Funcionario {
         super(nome, horasTrabalhadas, salarioHora, matricula);
     }
 
+    @Override
+    public void apresentar() {
+        System.out.println("Meu nome é " + nome);
+    }
+
     public void fazCafe() {
         System.out.println("Fazendo cafe");
     }
